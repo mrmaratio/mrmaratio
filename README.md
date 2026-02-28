@@ -1,16 +1,35 @@
-## Hi there 👋
+# Marat Khuramshin
 
-<!--
-**mrmaratio/mrmaratio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder building global race infrastructure.  
+Sport-Tech | Travel | Active Living
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Global Race Platform (SEA-first MVP)
+
+Building a race discovery and registration ecosystem focused on:
+
+- 🌍 Southeast Asia launch
+- 🏃 Athlete-led product development
+- 🔗 Clean race discovery & official registration links
+- 📈 Scalable cloud-first architecture
+
+---
+
+## 🛠 Current Focus
+
+- MVP architecture
+- Infrastructure (Cloud / Docker / CI-CD)
+- Race data structure & aggregation
+
+---
+
+## 🌐 Links
+
+- Instagram: https://instagram.com/mr.maratio  
+- YouTube: https://www.youtube.com/@mr.maratio  
+- Website: https://mrmaratio.com  
+
+---
+
+_Seed-stage founder. Building infrastructure for the future of race experiences._
