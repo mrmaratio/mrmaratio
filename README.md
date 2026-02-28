@@ -1,7 +1,8 @@
 # Marat Khuramshin
 
-Founder building global race infrastructure.  
-Sport-Tech | Travel | Active Living
+Seed-stage founder building global race infrastructure.
+
+Sport-Tech | Cloud Architecture | Athlete-led Product
 
 ---
 
