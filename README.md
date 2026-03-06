@@ -6,7 +6,7 @@ Sport-Tech | Cloud Architecture | Athlete-led Product
 
 ---
 
-## 🚀 Global Race Platform (SEA-first MVP)
+##  Global Race Platform (SEA-first MVP)
 
 Building a race discovery and registration ecosystem focused on:
 
@@ -14,14 +14,6 @@ Building a race discovery and registration ecosystem focused on:
 - 🏃 Athlete-led product development
 - 🔗 Clean race discovery & official registration links
 - 📈 Scalable cloud-first architecture
-
----
-
-## 🛠 Current Focus
-
-- MVP architecture
-- Infrastructure (Cloud / Docker / CI-CD)
-- Race data structure & aggregation
 
 ---
 
